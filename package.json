@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Website redesign for Listers Automotive Service — Palm Bay, FL",
   "scripts": {
-    "build": "npx tailwindcss -i ./assets/css/style.css -o ./assets/css/output.css",
-    "watch": "npx tailwindcss -i ./assets/css/style.css -o ./assets/css/output.css --watch"
+    "build": "npx tailwindcss -i ./pages/assets/css/style.css -o ./pages/assets/css/output.css",
+    "watch": "npx tailwindcss -i ./pages/assets/css/style.css -o ./pages/assets/css/output.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.0",
